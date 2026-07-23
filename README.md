@@ -6,7 +6,7 @@ Red Care Server is the backend API for the **Red Care** platform. It is built wi
 
 ---
 
-## live url: red-care-2025.netlify.app
+## live url: https://red-care-client.vercel.app
 
 ## ✨ Features
 
